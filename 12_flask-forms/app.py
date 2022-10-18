@@ -1,8 +1,8 @@
 '''
-TEAM KrEWes: Elizabeth Paperno, Raven (Ruiwen) Tang, William Vongphanith, Kosta>
+Team <AKA Wolfgang>, Kosta, Aaron, Andrew>
 SoftDev
-K11 -- Forms
-2022-10-14
+K12 -- Forms
+2022-10-18
 Time Spent: 0.75 hours
 
 DISCO
@@ -35,7 +35,7 @@ app = Flask(__name__)    #create Flask object
 trioTASK:
 ~~~~~~~~~~~ BEFORE RUNNING THIS, ~~~~~~~~~~~~~~~~~~
 ...read for understanding all of the code below.
-Some will work as written; other sections will not. 
+Some will work as written; other sections will not.
 TASK: Predict which...
 Devise some simple tests you can run to "take apart this engine," as it were.
 Execute your tests.
@@ -52,11 +52,11 @@ def disp_loginpage(): # only called on disp. page
     print("\n\n\n")
     print("***DIAG: this Flask obj ***")
     print(app)
-    print("***DIAG: request obj ***") 
+    print("***DIAG: request obj ***")
     print(request)
     print("***DIAG: request.args ***")
     print(request.args)
-    #print("***DIAG: request.args['username']  ***") # these don't work here because there hasn't been any inputs yet, the tuple pairs are created as input is passed in, they're chronologicallyt created 
+    #print("***DIAG: request.args['username']  ***") # these don't work here because there hasn't been any inputs yet, the tuple pairs are created as input is passed in, they're chronologicallyt created
     #print(request.args['username'])
     print("***DIAG: request.headers ***")
     print(request.headers)
@@ -79,8 +79,8 @@ def authenticate():
     return "Waaaa hooo HAAAH"  #response to a form submission
 
 
-    
+
 if __name__ == "__main__": #false if this file imported as module
     #enable debugging, auto-restarting of server when this file is modified
-    app.debug = True 
+    app.debug = True
     app.run()
