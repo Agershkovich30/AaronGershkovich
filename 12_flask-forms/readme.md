@@ -1,5 +1,5 @@
 
-#Team <AKA Wolfgang>, Kosta, Aaron, Andrew>
+#Team AKA Wolfgang: Kosta, Aaron, Andrew>
 - SoftDev
 - K12 -- Forms
 - 2022-10-18
