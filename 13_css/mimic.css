@@ -4,26 +4,21 @@ body {
 
 h1 {
     background-color: lightgrey;
+    color: whitesmoke;
+    text-align: center;
 }
 
-p {
+h2,h3 {
+    color: black;
+}
+
+nav {
+    float:left;
+    width:20%;
     color: white;
 }
 
-.row {
-    display: table;
-}
-
-.column1 {
-    float:left;
-    width:30%;
-}
-
-.column2 {
+.rightcolumn {
     float: right;
-    width:70%;
-}
-
-.paragraph1 {
-    color: black;
+    width:80%;
 }
