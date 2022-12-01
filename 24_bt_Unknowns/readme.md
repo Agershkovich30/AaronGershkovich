@@ -20,6 +20,6 @@
 - Asked about their different uses for the parts that they implemented and possible use in story telling
 
 ### q1
-- (complete when finished)
-
+- Julia: I prefer bootstrap because of how well the documentation is done. It's very easy to find where each of the components of the FEF are documented and each of the elements of the CSS is very clearly and well explained. There's also lots of simple sample code provided that allows you to test out different ways to implement certain things. I think I also prefer the design of Bootstrap. I do think that if I explore more of foundation, I may end up liking some of its finer aspects, like how it has a whole separate framework for emails, but at the moment, I prefer bootstrap.
+- Aaron: As of right now, I am mostly indifferent, but I agree with the points Julia brought up because these are all things that are very important for the stuff that we will be doing in class, and bootstrap seems to have accounted for a lot of it.
 '''
