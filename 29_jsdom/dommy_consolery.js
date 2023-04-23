@@ -1,20 +1,12 @@
 /*
-   your PPTASK:
+   QCC/ DISCO:
    
-   Test drive each bit of code in this file,
-    and insert comments galore, indicating anything
-     you discover,
-    	have questions about,
-    		or otherwise deem notable.
-    		
-    		Write with your future self or teammates in mind.
-    		
-    		If you find yourself falling out of flow mode, consult 
-    		other teams
-    		MDN
-   A few comments have been pre-filled for you...
+   Bind command needs to be called at the end of the file, or else the button needs to be pressed twice for the command to run. 
+   Arrow syntax can be used to save redundant commands, like "function", and can streamline function making process
+   Use Bind function to connect the button to the function instead of just running the function
+   Using element IDs to reference the different functions when called
    
-   (delete this block comment once you are done)
+   How does this binding work? Multiple functions with one button?
 */
 
 // Team AYO: Yusha Aziz & Aaron Gershkovich
